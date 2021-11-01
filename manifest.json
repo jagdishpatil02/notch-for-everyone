@@ -1,6 +1,6 @@
 {
   "name": "Notch for everyone",
-  "description": "Notch for everyone is a chrome extenstion that will place the notch for your website.",
+  "description": "Notch for everyone is a chrome extension that will place the notch for your website.",
   "version": "1.0",
   "permissions": ["activeTab"],
   "background": {
