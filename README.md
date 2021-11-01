@@ -1,6 +1,6 @@
 # Notch for everyone
 
-Notch for everyone is a chrome extenstion that will place the notch for your website.
+Notch for everyone is a chrome extension that will place the notch for your website.
 
 ![Demo Photo](./banner.jpg)
 
